@@ -6,6 +6,9 @@ public class multiplication {
         System.out.println(c);
 
 
+// addition
+
+
 
 
     }
